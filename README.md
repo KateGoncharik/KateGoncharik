@@ -4,8 +4,7 @@
 
   [![React][React]][React-url]
   [![React-hook-form][React-hook-form]][React-hook-form-url]
-  [![Redux][Redux]][Redux-url]
-
+  
   [![Javascript][Javascript]][Javascript-url]
   [![TypeScript][TypeScript]][TypeScript-url]
 
@@ -22,21 +21,21 @@
   [![Mui][Mui]][Mui-url]
 
   [![GraphQL][GraphQL]][GraphQL-url]
-  
+
   [![Zod][Zod]][Zod-url]
 
   [![Testing-Library][Testing-Library]][Testing-Library-url]
   [![Vitest][Vitest]][Vitest-url]
 
   [![Zustand][Zustand]][Zustand-url]
+  [![Redux][Redux]][Redux-url]
 
   [![Vite][Vite]][Vite-url]
+  [![Webpack][Webpack]][Webpack-url]
   [![Netlify][Netlify]][Netlify-url]
 
-  [![NPM][NPM]][NPM-url]
+  [![Git][Git]][Git-url]
 
-[NPM]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
-[NPM-url]: https://www.npmjs.com
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/html5/
 [TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
@@ -79,3 +78,7 @@
 [Redux-url]: https://redux-toolkit.js.org/
 [GraphQL]: https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white
 [GraphQL-url]: https://graphql.org/
+[Git]: ./public/git.svg
+[Git-url]: https://git-scm.com/
+[Webpack]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white
+[Webpack-url]: https://webpack.js.org/
