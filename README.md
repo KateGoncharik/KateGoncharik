@@ -1,23 +1,39 @@
-# welcome
+# Hello
 
- [![NPM][NPM]][NPM-url]
- [![HTML5][HTML5]][HTML5-url]
- [![TypeScript][TypeScript]][TypeScript-url]
- [![Prettier][Prettier]][Prettier-url]
- [![Stylelint][Stylelint]][Stylelint-url]
- [![Lint-staged][Lint-staged]][Lint-staged-url]
- [![Husky][Husky]][Husky-url]
- [![Eslint][Eslint]][Eslint-url]
- [![Tailwind][Tailwind]][Tailwind-url]
- [![Mui][Mui]][Mui-url]
- [![React][React]][React-url]
- [![React-hook-form][React-hook-form]][React-hook-form-url]
- [![Zod][Zod]][Zod-url]
- [![Testing-Library][Testing-Library]][Testing-Library-url]
- [![Vitest][Vitest]][Vitest-url]
- [![Zustand][Zustand]][Zustand-url]
- [![Vite][Vite]][Vite-url]
- [![Netlify][Netlify]][Netlify-url]
+## Here is my stack
+
+  [![React][React]][React-url]
+  [![React-hook-form][React-hook-form]][React-hook-form-url]
+  [![Redux][Redux]][Redux-url]
+
+  [![Javascript][Javascript]][Javascript-url]
+  [![TypeScript][TypeScript]][TypeScript-url]
+
+  [![HTML5][HTML5]][HTML5-url]
+  [![CSS3][CSS3]][CSS3-url]
+
+  [![Prettier][Prettier]][Prettier-url]
+  [![Stylelint][Stylelint]][Stylelint-url]
+  [![Lint-staged][Lint-staged]][Lint-staged-url]
+  [![Husky][Husky]][Husky-url]
+  [![Eslint][Eslint]][Eslint-url]
+
+  [![Tailwind][Tailwind]][Tailwind-url]
+  [![Mui][Mui]][Mui-url]
+
+  [![GraphQL][GraphQL]][GraphQL-url]
+  
+  [![Zod][Zod]][Zod-url]
+
+  [![Testing-Library][Testing-Library]][Testing-Library-url]
+  [![Vitest][Vitest]][Vitest-url]
+
+  [![Zustand][Zustand]][Zustand-url]
+
+  [![Vite][Vite]][Vite-url]
+  [![Netlify][Netlify]][Netlify-url]
+
+  [![NPM][NPM]][NPM-url]
 
 [NPM]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
 [NPM-url]: https://www.npmjs.com
@@ -25,6 +41,8 @@
 [HTML5-url]: https://html.com/html5/
 [TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org
+[Javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[Javascript-url]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://https://react.dev/
 [Tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
@@ -55,3 +73,9 @@
 [Husky-url]: https://typicode.github.io/husky/
 [Lint-staged]: ./public/lint-staged.png
 [Lint-staged-url]: https://npmjs.com/package/lint-staged/v/12.3.2
+[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://ru.wikipedia.org/wiki/CSS
+[Redux]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[Redux-url]: https://redux-toolkit.js.org/
+[GraphQL]: https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white
+[GraphQL-url]: https://graphql.org/
