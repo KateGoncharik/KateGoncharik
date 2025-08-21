@@ -6,7 +6,7 @@
 |-------------------------|-------------|
 | **Programming Languages** | JavaScript, TypeScript |
 | **Frontend Frameworks & Libraries** | React, React Hook Form, React Query, React Router, Next.js (basics), Node.js (basics) |
-| **Testing** | Vitest, Testing Library, Jest |
+| **Testing** | Vitest, Testing Library, Jest, Playwright |
 | **Markup & Styling** | HTML5, CSS3, Sass, Tailwind, Material UI, Bootstrap |
 | **Build Tools** | Vite, Webpack |
 | **State Management** | Zustand, Redux |
